@@ -3,98 +3,98 @@
         {
             "author": "Sandor Kruise",
             "description": {
-                "en": "/https://github.com/Digitechnl/Jeti/readme.html"
+                "en": "https://github.com/Digitechnl/Jeti/blob/main/readme.html"
             },
             "files": [
                 {
                     "destination": "Apps/SB-Temp.lua",
                     "hash": "d7f368d770bd39d069a57ada6f5735b611f73760",
                     "size": 236,
-                    "url": "/https://github.com/Digitechnl/Jeti/SB-Temp.lua"
+                    "url": "https://github.com/Digitechnl/Jeti/blob/main/SB-Temp.lua"
                 },
                 {
                     "destination": "Apps/digitechSBT/BuiltInScreens/Gauge.jsn",
                     "hash": "de9694437457153f5e8163a70dd0b79f6e56a37f",
                     "size": 417,
-                    "url": "/https://github.com/Digitechnl/Jeti/digitechSBT/BuiltInScreens/Gauge.jsn"
+                    "url": "https://github.com/Digitechnl/Jeti/blob/main/digitechSBT/BuiltInScreens/Gauge.jsn"
                 },
                 {
                     "destination": "Apps/digitechSBT/BuiltInScreens/Histogram.jsn",
                     "hash": "d4d75fa0440e3e01d6af30968286c75b3d3c88a3",
                     "size": 403,
-                    "url": "/https://github.com/Digitechnl/Jeti/digitechSBT/BuiltInScreens/Histogram.jsn"
+                    "url": "https://github.com/Digitechnl/Jeti/blob/main/digitechSBT/BuiltInScreens/Histogram.jsn"
                 },
                 {
                     "destination": "Apps/digitechSBT/c-000.png",
                     "hash": "c2e7c5e26f257644d99dccf66882237a58b40676",
                     "size": 1627,
-                    "url": "/https://github.com/Digitechnl/Jeti/digitechSBT/c-000.png"
+                    "url": "https://github.com/Digitechnl/Jeti/blob/main/digitechSBT/c-000.png"
                 },
                 {
                     "destination": "Apps/digitechSBT/icon.png",
                     "hash": "42aa1f1cda473f5ae3a06c43196020cf39700300",
                     "size": 37611,
-                    "url": "/https://github.com/Digitechnl/Jeti/digitechSBT/icon.png"
+                    "url": "https://github.com/Digitechnl/Jeti/blob/main/digitechSBT/icon.png"
                 },
                 {
                     "destination": "Apps/digitechSBT/ImageScreens/Airplane.jsn",
                     "hash": "1623b8630568d355ea76e57861c55b6e1c791fb8",
                     "size": 418,
-                    "url": "/https://github.com/Digitechnl/Jeti/digitechSBT/ImageScreens/Airplane.jsn"
+                    "url": "https://github.com/Digitechnl/Jeti/blob/main/digitechSBT/ImageScreens/Airplane.jsn"
                 },
                 {
                     "destination": "Apps/digitechSBT/ImageScreens/Airplane.png",
                     "hash": "01e61504386f34f3500d15237db9136daac82884",
                     "size": 1438,
-                    "url": "/https://github.com/Digitechnl/Jeti/digitechSBT/ImageScreens/Airplane.png"
+                    "url": "https://github.com/Digitechnl/Jeti/blob/main/digitechSBT/ImageScreens/Airplane.png"
                 },
                 {
                     "destination": "Apps/digitechSBT/ImageScreens/brown-bear-7.jsn",
                     "hash": "b3f39c7a4f64aaa22d0ebc3ae4b42b5c790a34f2",
                     "size": 816,
-                    "url": "/https://github.com/Digitechnl/Jeti/digitechSBT/ImageScreens/brown-bear-7.jsn"
+                    "url": "https://github.com/Digitechnl/Jeti/blob/main/digitechSBT/ImageScreens/brown-bear-7.jsn"
                 },
                 {
                     "destination": "Apps/digitechSBT/ImageScreens/brown-bear-7.PNG",
                     "hash": "000647c87ae783308f911bd6cb3b886449e01c9a",
                     "size": 29162,
-                    "url": "/https://github.com/Digitechnl/Jeti/digitechSBT/ImageScreens/brown-bear-7.PNG"
+                    "url": "https://github.com/Digitechnl/Jeti/blob/main/digitechSBT/ImageScreens/brown-bear-7.PNG"
                 },
                 {
                     "destination": "Apps/digitechSBT/ImageScreens/brown-bear-7.txt",
                     "hash": "82e90c3bb1eff0121814ba5dd9c9392912f2c81a",
                     "size": 817,
-                    "url": "/https://github.com/Digitechnl/Jeti/digitechSBT/ImageScreens/brown-bear-7.txt"
+                    "url": "https://github.com/Digitechnl/Jeti/blob/main/digitechSBT/ImageScreens/brown-bear-7.txt"
                 },
                 {
                     "destination": "Apps/digitechSBT/ImageScreens/icon.png",
                     "hash": "42aa1f1cda473f5ae3a06c43196020cf39700300",
                     "size": 37611,
-                    "url": "/https://github.com/Digitechnl/Jeti/digitechSBT/ImageScreens/icon.png"
+                    "url": "https://github.com/Digitechnl/Jeti/blob/main/digitechSBT/ImageScreens/icon.png"
                 },
                 {
                     "destination": "Apps/digitechSBT/ImageScreens/Kolm-240.jsn",
                     "hash": "e5ebb0bbfdc5e1a4da16b2dff2aa1405602b7337",
                     "size": 826,
-                    "url": "/https://github.com/Digitechnl/Jeti/digitechSBT/ImageScreens/Kolm-240.jsn"
+                    "url": "https://github.com/Digitechnl/Jeti/blob/main/digitechSBT/ImageScreens/Kolm-240.jsn"
                 },
                 {
                     "destination": "Apps/digitechSBT/ImageScreens/kolm-240.png",
                     "hash": "110c5191dffb4577976c0b71840560557dfd2601",
                     "size": 12426,
-                    "url": "/https://github.com/Digitechnl/Jeti/digitechSBT/ImageScreens/kolm-240.png"
+                    "url": "https://github.com/Digitechnl/Jeti/blob/main/digitechSBT/ImageScreens/kolm-240.png"
                 },
                 {
                     "destination": "Apps/digitechSBT/ImageScreens/saito-3.jsn",
                     "hash": "f774a7742209d83ea46cc2bc0411754eff8dc9c6",
                     "size": 816,
-                    "url": "/https://github.com/Digitechnl/Jeti/digitechSBT/ImageScreens/saito-3.jsn"
+                    "url": "https://github.com/Digitechnl/Jeti/blob/main/digitechSBT/ImageScreens/saito-3.jsn"
                 },
                 {
                     "destination": "Apps/digitechSBT/ImageScreens/saito-3.PNG",
                     "hash": "0237a45426cf6d725f880f5889f6ab7012ca47c5",
                     "size": 26217,
-                    "url": "/https://github.com/Digitechnl/Jeti/digitechSBT/ImageScreens/saito-3.PNG"
+                    "url": "https://github.com/Digitechnl/Jeti/blob/main/digitechSBT/ImageScreens/saito-3.PNG"
                 }
             ],
             "hw": [
@@ -107,7 +107,7 @@
             "name": {
                 "en": "SB-Temp"
             },
-            "previewIcon": "/https://github.com/Digitechnl/Jeti/icon.png",
+            "previewIcon": "https://github.com/Digitechnl/Jeti/blob/main/icon.png",
             "releaseDate": "zo nov 1 00:01:00 2020",
             "version": "1.1"
         },
@@ -123,7 +123,7 @@
             "name": {
                 "en": "[New App]"
             },
-            "previewIcon": "/https://github.com/Digitechnl/Jeti/",
+            "previewIcon": "https://github.com/Digitechnl/Jeti/blob/main/",
             "releaseDate": "",
             "version": ""
         }

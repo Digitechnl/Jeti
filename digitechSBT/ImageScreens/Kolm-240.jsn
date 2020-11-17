@@ -1,0 +1,14 @@
+{
+    "Image": "Kolm-240.png",
+    "XPFont":"FONT_MINI",
+    "Probes": [
+	{"Name":"H1",  "XT": 10,"YT":   0,"XP": 70,"YP":-42, "Green": 0, "Yellow":50, "Red":100},
+	{"Name":"E1",  "XT": 10,"YT":  20,"XP": 70,"YP":-60, "Green": 11, "Yellow":50, "Red":100},
+	{"Name":"H2",  "XT": 10,"YT":  40,"XP": 65,"YP": 60, "Green": 0, "Yellow":50, "Red":100},
+	{"Name":"E2",  "XT": 10,"YT":  60,"XP": 65,"YP": 45, "Green": 11, "Yellow":50, "Red":100},
+	{"Name":"H3",  "XT": 10,"YT":  80,"XP":-20,"YP":-42, "Green": 0, "Yellow":50, "Red":100},
+	{"Name":"E3",  "XT": 10,"YT": 100,"XP":-20,"YP":-60, "Green": 11, "Yellow":50, "Red":100},
+	{"Name":"H4",  "XT": 10,"YT": 120,"XP":-30,"YP": 60, "Green": 0, "Yellow":50, "Red":100},
+	{"Name":"E4",  "XT": 10,"YT": 140,"XP":-30,"YP": 45, "Green": 11, "Yellow":50, "Red":100}
+    ]
+}

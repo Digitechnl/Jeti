@@ -1,0 +1,12 @@
+{"Probes":
+[
+{"Red":420,"Green":1,"Yellow":50,"Name":"T1"},
+{"Red":100,"Green":9,"Yellow":51,"Name":"T2"},
+{"Red":100,"Green":0,"Yellow":55,"Name":"T3"},
+{"Red":100,"Green":0,"Yellow":50,"Name":"T4"},
+{"Red":600,"Green":0,"Yellow":50,"Name":"T5"},
+{"Red":100,"Green":0,"Yellow":50,"Name":"T6"},
+{"Red":100,"Green":0,"Yellow":50,"Name":"T7"},
+{"Red":113,"Green":0,"Yellow":80,"Name":"T8"}
+],
+"Type":"Gauge"}
